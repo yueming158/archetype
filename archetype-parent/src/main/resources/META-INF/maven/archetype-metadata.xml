@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Archetype 描述符文件用于：1.声明哪些目录及文件应该包含在Archetype中，2.Archetype使用哪些属性参数 -->
+<archetype-descriptor
+				xmlns="https://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.1.0"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				xsi:schemaLocation="https://maven.apache.org/plugins/maven-archetype-plugin/archetype-descriptor/1.1.0 http://maven.apache.org/xsd/archetype-descriptor-1.1.0.xsd"
+				name="archetype-parent">
+
+
+
+</archetype-descriptor>
